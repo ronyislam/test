@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /google1b138db4d9124ccf.html
